@@ -9,4 +9,5 @@ hackintosh！
 |内存|corsair DDR4 3200MHz 8Gx2
 |显卡|GTX 760
 |硬盘|samsung SM951 256G
-|网卡|intel 1211
+|网卡1|intel 1219-v
+|网卡2|bcm94360 cd
