@@ -6,7 +6,7 @@ hackintosh！
 |-|-
 |CPU|Intel 6th CORE 6700k
 |主板|技嘉Z170N-WIFI
-|内存|corsair DDR4 3200MHz 8Gx2
+|内存|corsair DDR4 3200MHz 16Gx2
 |显卡|GTX 760
 |硬盘|samsung SM951 256G
 |网卡1|intel 1219-v
